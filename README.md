@@ -6,7 +6,7 @@
 
 [![Build Status](https://travis-ci.org/schasse/tmux-jump.svg?branch=master)](https://travis-ci.org/schasse/tmux-jump)
 
-A fast way to jump wherever you want in your terminal without using the mouse. A plugin similar to [vimium](https://vimium.github.io/) and [easymotion](https://github.com/easymotion/vim-easymotion) but for tmux. tmux-jump is written in ruby and can easily be installed via tpm.
+A fast way to jump wherever you want in your terminal without using the mouse. A plugin similar to [vimium](https://vimium.github.io/) and [easymotion](https://github.com/easymotion/vim-easymotion) but for tmux. tmux-jump is written in python and can easily be installed via tpm.
 
 ![tmux-jump-demo](https://user-images.githubusercontent.com/3882305/74186577-2f6aad80-4c4b-11ea-8054-91c54e3dd2af.gif)
 
@@ -15,7 +15,7 @@ From now to then I think about how to improve my dev tools. Copy and pasting ins
 ## Requirements
 
 * [tmux](https://github.com/tmux/tmux) >= 3.1
-* [ruby](https://www.ruby-lang.org/) >= 2.3
+* [python](https://www.python.org/) >= 3.6
 
 ## Installation via [TPM](https://github.com/tmux-plugins/tpm)
 
