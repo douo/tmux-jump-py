@@ -1,6 +1,6 @@
 # Agent Instructions
 
-本项目的主要指令和规范请参考根目录下的 `GEMINI.md`。
+Please refer to `GEMINI.md` in the root directory for primary instructions and standards for this project.
 
 ## Agent skills
 
